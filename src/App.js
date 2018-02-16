@@ -7,11 +7,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      <nav>
-        {/* <li>
-       <Link to='/shelf/A'>Shelf A</Link>
-       </li>           */}
-      </nav>
        {Routes}
       </div>
     );
